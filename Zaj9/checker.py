@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
         the_page = response.read()
 
-        if the_page.find(CHECK_PHRASE) == -1:
+        if the_page.find(CHECK_PHRASE.encode("utf-8")) == -1:
             print("!!! Check-phrase not found")
             sys.exit(1)
         print("Check-phrase found")
