@@ -1,0 +1,15 @@
+1   [1/3]   poprawny ciąg
+2   [ERR]   spacja na początku
+3   [ERR]   spacja na końcu
+4   [ERR]   podwójna spacja ostatnia
+5   [ERR]   podwójna spacja pierwsza
+6   [2/6]   inny poprawny ciąg
+7   [0/0]   pusty ciąg
+8   [ERR]   ciąg z tylko jednym znakiem spacji
+9   [1/1]   jedna litera
+10  [0/17]  brak palindromów
+11  [ERR]   znak ó
+12  [ERR]   długość > 1024
+13  [ERR]   bardzo dużo spacji
+14  [1/10]  wiele różnych palindromów
+15  [0/148] bardzo długie pytanie, ale < 1024

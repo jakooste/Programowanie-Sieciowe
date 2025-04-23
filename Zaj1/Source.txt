@@ -1,0 +1,4 @@
+Kilka linijek tekstu
+Stworzonych w celu testowania Zadanie-01-06.x
+Którego celem jest kopiowanie zawartości
+jednego pliku do drugiego
